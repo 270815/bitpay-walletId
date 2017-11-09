@@ -1,0 +1,2 @@
+# bitpay-walletId
+Refactored-winner
